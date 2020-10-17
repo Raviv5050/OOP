@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3eca33b-da5a-411b-9f0b-e329ae4dab4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="tar2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZnPCL2eQ7iZQEbbByYJz6X4eh2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/biuoop.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Raviv\OOP\ass2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Raviv\OOP\ass2\src" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="configuration" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Android JUnit.PointTest.setX">
+    <configuration name="PointTest.setX" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ass2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PointTest" />
+      <option name="METHOD_NAME" value="setX" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BouncingBallAnimation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BouncingBallAnimation" />
+      <module name="ass2" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3 4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BouncingBallAnimation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BouncingBallAnimation" />
+      <module name="ass2" />
+      <option name="PROGRAM_PARAMETERS" value="4 12 26 10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LineCheck" />
+      <module name="ass2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tester" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointTest.setX" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ass2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PointTest" />
+      <option name="METHOD_NAME" value="setX" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BouncingBallAnimation" />
+      <item itemvalue="Application.Tester" />
+      <item itemvalue="Application.LineCheck" />
+      <item itemvalue="JUnit.PointTest.setX" />
+      <item itemvalue="Android JUnit.PointTest.setX" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.PointTest.setX" />
+        <item itemvalue="JUnit.PointTest.setX" />
+        <item itemvalue="Application.LineCheck" />
+        <item itemvalue="Application.Tester" />
+        <item itemvalue="Application.BouncingBallAnimation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3eca33b-da5a-411b-9f0b-e329ae4dab4c" name="Default Changelist" comment="" />
+      <created>1585471755431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585471755431</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="368" y="9" key="#Tester" timestamp="1587465613638">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="368" y="9" key="#Tester/0.0.1280.680@0.0.1280.680" timestamp="1587465613638" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587463886551">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1587463886551" />
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587463862105">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1587463862105" />
+    <state x="371" y="91" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585952083490">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="91" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1585952083490" />
+    <state x="638" y="119" key="FileChooserDialogImpl" timestamp="1586888579732">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="638" y="119" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586888579732" />
+    <state width="1237" height="267" key="GridCell.Tab.0.bottom" timestamp="1587749501717">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="267" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587749501717" />
+    <state width="1237" height="267" key="GridCell.Tab.0.center" timestamp="1587749501717">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="267" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587749501717" />
+    <state width="1237" height="267" key="GridCell.Tab.0.left" timestamp="1587749501716">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="267" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587749501716" />
+    <state width="1237" height="267" key="GridCell.Tab.0.right" timestamp="1587749501717">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="267" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587749501717" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1586552925288">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586552925288" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1586552925288">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586552925288" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1586552925288">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586552925288" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1586552925288">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586552925288" />
+    <state x="221" y="79" key="IDE.errors.dialog" timestamp="1586876150243">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="79" key="IDE.errors.dialog/0.0.1280.680@0.0.1280.680" timestamp="1586876150243" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1586871372785">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586871372785" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1587503068417">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587503068417" />
+    <state x="376" y="242" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587503193626">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="376" y="242" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1587503193626" />
+    <state x="311" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586003739553">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="311" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1586003739553" />
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup" timestamp="1586876479843">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1586876479843" />
+  </component>
+</project>
