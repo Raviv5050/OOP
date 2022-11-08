@@ -27,7 +27,8 @@ The main screen has a graphic display which runs the Arkanoid game:
 
 
 ### Running
-To run, enter to the "ass5" folder then click (double click) on the file: main.exe. A window will open that will display the 10 solutions of the hexagon board, and finally the Arkanoid game will be displayed.
+To run, enter to the "ass5" folder then open cmd for this path, and in the opened terminal write:   "ant run", or in case you want to play specific game stages, you can write the desired stages and play them like this: " ant -Dargs="levelNumber" run " (for example: ant -Dargs="2 4 3" run).
+A window will open, and finally the Arkanoid game will be displayed.
 
 
 
